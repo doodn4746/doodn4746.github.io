@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "개발자.."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "개발하다가 나중에 기억나지 않을것 같으면 여기다가 대충 기록하는 개인 블로그"
+  location         : "코리아"
+  email            : "doodn4746@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
